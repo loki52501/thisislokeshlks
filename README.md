@@ -37,8 +37,8 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 [Portfolio](lkslokesh.in)  
-- 💼 [LinkedIn](www.linkedin.com/in/lokesh-l-k-s-6935b0197)  
+- 🌐 [Portfolio](https://lkslokesh.in)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-l-k-s-6935b0197)  
 - 🐙 [GitHub](https://github.com/loki52501)  
 
 ---
