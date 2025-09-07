@@ -39,6 +39,7 @@
 
 ---
 
+
 ## 📫 Connect With Me
 - 🌐 [Portfolio](https://lkslokesh.in)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-l-k-s-6935b0197)  
@@ -46,3 +47,6 @@
 
 ---
 ✨ *“Secure systems, scalable solutions, and impactful technology.”*
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loki52501&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki52501&layout=compact&theme=tokyonight" height="165"/> </p>
