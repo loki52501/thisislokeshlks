@@ -1,3 +1,5 @@
+![Ada Lovelace](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg)
+
 # Hi there, I'm Lokesh 👋
 
 🎓 **Master’s in Cybersecurity & Computer Science** (Penn State & USC)  
@@ -9,7 +11,8 @@
 ## 🚀 About Me
 - 🔐 Passionate about **cybersecurity, cloud security, and AI-driven security solutions**  
 - 💼 Experience in **software engineering, IAM automation, and observability tools**  
-- 📚 Currently preparing for **Security+, CCNA, and CCSK**  
+- ✅ Certified: **CompTIA Security+**  
+- 📚 Currently preparing for **CCNA and CCSK**  
 - 🌍 Open to opportunities in the **US or Switzerland**
 
 ---
