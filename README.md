@@ -37,9 +37,9 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 [Portfolio](#)  
-- 💼 [LinkedIn](#)  
-- 🐙 [GitHub](#)  
+- 🌐 [Portfolio](lkslokesh.in)  
+- 💼 [LinkedIn](www.linkedin.com/in/lokesh-l-k-s-6935b0197)  
+- 🐙 [GitHub](https://github.com/loki52501)  
 
 ---
 ✨ *“Secure systems, scalable solutions, and impactful technology.”*
