@@ -1,23 +1,45 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-### Hi there 👋
-* 👂 My name is ...
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ..
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+# Hi there, I'm Lokesh 👋
+
+🎓 **Master’s in Cybersecurity & Computer Science** (Penn State & USC)  
+💻 **Software Developer & Cybersecurity Enthusiast**  
+☁️ Exploring **Cloud Security | AI | Network Security**
+
+---
+
+## 🚀 About Me
+- 🔐 Passionate about **cybersecurity, cloud security, and AI-driven security solutions**  
+- 💼 Experience in **software engineering, IAM automation, and observability tools**  
+- 📚 Currently preparing for **Security+, CCNA, and CCSK**  
+- 🌍 Open to opportunities in the **US or Switzerland**
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript, Java  
+- **Frameworks:** React.js, Node.js, Spring Boot 
+- **Security & Cloud:** AWS, Azure, GCP, IAM, SIEM, MCP Servers  
+- **Other:** Git, Docker, Kubernetes, PostgreSQL, MongoDB  
+
+---
+
+## 📌 Featured Projects
+- 🔎 **[FastMCP Stock Analyzer](#)** – Real-time financial analysis with Yahoo Finance, Plotly & TA-Lib  
+- ☁️ **[Cloud Security IAM Automation](#)** – Automated onboarding/offboarding using AD, Ivanti, and Google Workspace  
+- 📊 **[Reverse Proxy Portofolio](#)** – Express.js + Sequelize backend for revenue insights  
+
+---
+
+## 🌱 Currently
+- Enhancing my **cybersecurity certifications & projects**  
+- Diving deeper into **cloud security engineering**  
+- Building **personal projects** that combine **AI + security**
+
+---
+
+## 📫 Connect With Me
+- 🌐 [Portfolio](#)  
+- 💼 [LinkedIn](#)  
+- 🐙 [GitHub](#)  
+
+---
+✨ *“Secure systems, scalable solutions, and impactful technology.”*
